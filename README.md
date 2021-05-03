@@ -14,7 +14,7 @@ Go to backend repo and run: `npm install`.
 
 ### Run the frontend and backend:
 In the frontend repo, run: `npm run start`.  
-In the backend repo, run: `npm run start`. 
+In the backend repo, run: `npm run start` and `npm install firebase-admin --save`. 
 
 
 ### Alternative method of running program
